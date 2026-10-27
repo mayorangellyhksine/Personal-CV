@@ -621,5 +621,13 @@
     #highlights .highlight-card h3 {
         font-size: 16px;
     }
+
+    .avatar-photo,
+.certificate-image {
+  display: block;
+  visibility: visible;
+  opacity: 1;
+  max-width: 100%;
+}
 }
 
